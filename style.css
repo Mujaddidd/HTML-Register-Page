@@ -1,0 +1,40 @@
+/* Background Color */
+.yurr{
+    background-color:cyan ;
+}
+legend {
+text-align: left;
+}
+
+.box{
+    background-color: whitesmoke;
+    display: block;
+    text-align: center;
+    height: 550px;
+    width: 40%;
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+footer {
+    margin-top: 0.75rem;
+    border-top: solid 1px lightgray;
+    padding-top: 1rem;
+    text-align: center;
+}
+
+
+form input {
+    width: 100%;
+    min-width: 300px;
+    box-sizing: border-box;
+    margin: 0.75rem 0;
+    padding: 0.25rem;
+    line-height: 1.5rem;
+    font-size: 1em;
+    border: solid 1px gray;
+    border-radius: 3px;
+}
+/* Form */
+
